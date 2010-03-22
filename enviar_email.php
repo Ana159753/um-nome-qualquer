@@ -18,7 +18,7 @@
 	
 	
 	
-			if (mail ('loli_ana@hotmail.com', 'Assunto: Teste', 'Apenas um teste')):
+			if (mail ($destinatario,$assunto ,$corpo )):
 	
 	
 	
